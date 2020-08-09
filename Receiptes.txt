@@ -2,4 +2,6 @@ welcome to mystore
 customized storefront
 
 added impex
+
+create a new Catalogue
 Thanks 
